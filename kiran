@@ -4,3 +4,5 @@ git
 maven
 tomcat
 jenkins
+docker
+ansible
