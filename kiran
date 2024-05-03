@@ -7,3 +7,6 @@ jenkins
 docker
 ansible
 k8's
+terraform
+cloudformation
+rds
